@@ -19,4 +19,4 @@ This is a mobile app UI/UX prototype designed as part of the NSP Nexus Internshi
 [Figma Prototype](https://figma.com/link_here)
 
 ## Submitted by:
-Your Name
+MANISHAA GOVIND
